@@ -1,2 +1,3 @@
 # Second_Project
-This is another Project
+This is a project for Darksky.com
+
